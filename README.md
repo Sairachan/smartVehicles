@@ -7,9 +7,9 @@ Problem Statement: Predictive maintainance of vehicles using IOT sensors and ML.
 |---------------|
 | Malikaarfeen |
 | Sai Rachan    |
-| Mathew Peters |
-| Arshad Faizan |
-| Abdul Qayum   |
+| Moin Khan |
+| Mudassir Soudagar |
+| Mohammad Fatir |
 | Adnan Jakati  |
 
 
